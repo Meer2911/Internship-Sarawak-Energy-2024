@@ -1,0 +1,126 @@
+=============================== Page 2 - CSS_BFI(15Aug2023) ===============================
+All data found in text block
+=====================================
+Salary grade 'E2' incorrect
+Please double check the salary grade in the text block (if not, probably is contractor, vacant, or specialist position)
+
+1 Senior Executive I*/II – E3*/E4
+50001664 Ling Leh Tong – E2
+=====================================
+All data found in text block
+=====================================
+Position title 'Senior Engineer II' incorrect
+
+1 Sr Engineer I/ II* – E3/E4* (Regraded from E3 - Norlida 24.06.2021)
+50014089 Lucia Jong Sie Ping – E4
+=====================================
+All data found in text block
+=====================================
+All data found in text block
+All data found in text block
+No position ID found in block:
+1 Senior Consultant (Civil Engineering) Anderian Yenz Anak Kilau (1 Aug 2023 – 31 Jul 2025)
+=====================================
+Position title 'Technician II' incorrect
+Salary grade 'NE3' incorrect
+Please double check the salary grade in the text block (if not, probably is contractor, vacant, or specialist position)
+
+2 Technicians I/II* – NE3/NE4*
+50001653 Dzul Hadzry Bin Husaini - NE4
+50012299 Muhamad Huzaifah Bin Muhamad Saleh – NE3
+=====================================
+All data found in text block
+=====================================
+All data found in text block
+=====================================
+All data found in text block
+=====================================
+Error checking position data
+'NoneType' object has no attribute 'replace'
+=====================================
+Error checking position data
+'NoneType' object has no attribute 'replace'
+=====================================
+All data found in text block
+=====================================
+All data found in text block
+Error checking position data
+'NoneType' object has no attribute 'replace'
+=====================================
+All data found in text block
+Error checking position data
+'NoneType' object has no attribute 'replace'
+=====================================
+All data found in text block
+=====================================
+Error checking position data
+'NoneType' object has no attribute 'replace'
+=====================================
+All data found in text block
+=====================================
+All data found in text block
+All data found in text block
+All data found in text block
+Error checking position data
+'NoneType' object has no attribute 'replace'
+=====================================
+Position title 'Technical Executive I' incorrect
+Job role 'E1' incorrect
+
+1 Engineering Assistant – NE6
+50001965 Augustine Ulok Apoi - NE6 (MPS) – solid line to Miri PS until Miri closes down (discussed with Mr. Su, Simon Loh & HRiB on 11 Feb 2020)
+=====================================
+All data found in text block
+=====================================
+All data found in text block
+=====================================
+Error checking position data
+'NoneType' object has no attribute 'replace'
+=====================================
+Error checking position data
+'NoneType' object has no attribute 'replace'
+=====================================
+Position title 'Civil Engineer I' incorrect
+Job role 'E1' incorrect
+
+2 Civil Engineers I/II* – E1/E2*
+50001659 Muhamad Azfar Bin Nazaruddin – E1
+50001663 Jorge Michael Anak Johny – E1
+No position ID found in block:
+Associate Consultant (Site Supervisor)
+Muhd Noorfitri Bin Morshidi (6 Jun 2023 – 4 Jun 2025)
+=====================================
+All data found in text block
+Formal name 'Coralina Tan Lin Yin' incorrect
+
+1 Technician I/II* – NE3/NE4*
+50001654 Carolina Tan Lin Yin – NE3
+=====================================
+Position title 'Engineering Assistant' incorrect
+Job role 'NE6' incorrect
+Formal name 'Maximillian Timothy Anak Tommy' incorrect
+
+SEFM Asset Management
+1 Executive I*/II – E1*/E2 (regraded from NE4 – Gtiumiss 28 Oct 2022)
+50003090 Maximillian Timothy Tommy – NE5
++1 CFS – Gtiumiss 17 Apr 2023
+Position title 'Executive I' incorrect
+Job role 'E1' incorrect
+Formal name 'Sherilina Luense Anak Elayies' incorrect
+
+SEFM System Support
+Engineering Assistant – NE6
+50012301 Sherillina Luense Anak Ilayies – E1
+=====================================
+Position title 'Electrical Engineer I' incorrect
+Job role 'E1' incorrect
+
+1 Engineer I/II* – E1/E2*
+50003131 Lucas Leong Wun Sin – E1
+=====================================
+All data found in text block
+=====================================
+All data found in text block
+=====================================
+All data found in text block
+=====================================
